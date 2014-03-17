@@ -1,0 +1,7 @@
+C:\Users\attfire1\Desktop\RobAttfield_GamePractical_13032014\GameCharacterBattle\bin\Debug\Game Character Interface Demo.exe
+C:\Users\attfire1\Desktop\RobAttfield_GamePractical_13032014\GameCharacterBattle\bin\Debug\Game Character Interface Demo.pdb
+C:\Users\attfire1\Desktop\RobAttfield_GamePractical_13032014\GameCharacterBattle\obj\Debug\GamePractical.Form1.resources
+C:\Users\attfire1\Desktop\RobAttfield_GamePractical_13032014\GameCharacterBattle\obj\Debug\GamePractical.Properties.Resources.resources
+C:\Users\attfire1\Desktop\RobAttfield_GamePractical_13032014\GameCharacterBattle\obj\Debug\GameCharacterBattle.csproj.GenerateResource.Cache
+C:\Users\attfire1\Desktop\RobAttfield_GamePractical_13032014\GameCharacterBattle\obj\Debug\Game Character Interface Demo.exe
+C:\Users\attfire1\Desktop\RobAttfield_GamePractical_13032014\GameCharacterBattle\obj\Debug\Game Character Interface Demo.pdb
